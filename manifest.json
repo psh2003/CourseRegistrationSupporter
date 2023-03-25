@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+   
+    "name": "CRSupporter",
+    "description": "수강신청을 도와주는 확장프로그램입니다.",
+    "version": "1.0",
+   
+    "action": {
+      "default_icon": "icon.png",
+      "default_popup": "popup.html"
+    },
+    "permissions": [
+      "activeTab",
+      "<all_urls>"
+    ]
+  }
